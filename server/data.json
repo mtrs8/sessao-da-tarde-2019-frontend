@@ -1,1 +1,50 @@
-[{"code":1,"isbn":1234,"title":"JavaScript","year":2019,"author":"Hugo","publisher":"Editora"},{"title":"PHP Barril","isbn":"1235","year":"1235","author":"Hugo","publisher":"Editora","code":2},{"code":3,"isbn":1236,"title":"FrontEnd","year":2019,"author":"Hugo","publisher":"Editora"},{"title":"Angular 8","isbn":"1237","year":"1237","author":"Hugo","publisher":"Editora","code":4}]
+[
+	{
+		"code": 1,
+		"isbn": 1234,
+		"title": "JavaScript",
+		"year": 2019,
+		"author": "Hugo",
+		"publisher": "Editora"
+	},
+	{
+		"title": "PHP Barril",
+		"isbn": "1235",
+		"year": "1235",
+		"author": "Hugo",
+		"publisher": "Editora",
+		"code": 2
+	},
+	{
+		"code": 3,
+		"isbn": 1236,
+		"title": "FrontEnd",
+		"year": 2019,
+		"author": "Hugo",
+		"publisher": "Editora"
+	},
+	{
+		"title": "Angular 8",
+		"isbn": "1237",
+		"year": "1237",
+		"author": "Hugo",
+		"publisher": "Editora",
+		"code": 4
+	},
+	{
+		"title": "JavaScript",
+		"isbn": "1",
+		"year": "1999",
+		"author": "Tim Benners Lee",
+		"publisher": "Editora Moderna",
+		"code": 5
+	},
+	{
+		"title": "Use a Cabeça Java",
+		"isbn": "1029",
+		"year": "2010",
+		"author": "Matheus",
+		"publisher": "ESAM",
+		"code": 6
+	}
+]
